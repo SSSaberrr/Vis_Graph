@@ -1,0 +1,292 @@
+﻿  Reading Qt configuration (F:/Qt/5.13.2/msvc2017_64/bin/qmake)
+  Generate moc_predefs.h
+F:\VisualStudio2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8064: 项“debug\moc_predefs.h.cbt”的自定义生成成功，但指定的依赖项“e:\vis_graph\visgraph\debug\moc_predefs.h.cbt”不存在。这可能会导致增量生成无法正常工作。
+  ColorMap.cpp
+  CursorShape.cpp
+  DataItemEditWidget.cpp
+  DataManager.cpp
+  DisplayWidget.cpp
+  GraphDisplayWidget.cpp
+  MessageCenter.cpp
+  ViewportWidget.cpp
+  VisGraph.cpp
+  VisGraphRenderWidget.cpp
+  VisibilityGraphDisplayWidget.cpp
+  VisibilityGraphMainWindow.cpp
+  VolumeData.cpp
+  main.cpp
+  trackball.cpp
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(90,3): error C2614: “VisGraph”: 非法的成员初始化:“n”不是基或成员 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(91,3): error C2614: “VisGraph”: 非法的成员初始化:“matrix_offset”不是基或成员 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(92,3): error C2614: “VisGraph”: 非法的成员初始化:“adj_mat”不是基或成员 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(93,3): error C2614: “VisGraph”: 非法的成员初始化:“degree_mat”不是基或成员 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(94,3): error C2614: “VisGraph”: 非法的成员初始化:“latent_mat”不是基或成员 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(241,19): error C3646: “meta”: 未知重写说明符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(241,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(258,24): error C2143: 语法错误: 缺少“;”(在“*”的前面) (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(258,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(258,35): error C2238: 意外的标记位于“;”之前 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(106,3): error C3861: “readMetaInfo”: 找不到标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(110,29): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(110,54): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(110,64): error C2065: “Lavender_gray”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(110,39): error C3861: “getColorByName”: 找不到标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(111,27): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(111,52): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(111,62): error C2065: “Brandeis_blue”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(111,37): error C3861: “getColorByName”: 找不到标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(112,27): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(112,52): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(112,62): error C2065: “Harvard_crimson”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(112,37): error C3861: “getColorByName”: 找不到标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(128,1): error C2660: “readStreamlinePool”: 函数不接受 3 个参数 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\typeOperation.h(1552,13): message : 参见“readStreamlinePool”的声明 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,169): error C2065: “meta”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,190): error C3861: “getNumPoints”: 找不到标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,206): error C3861: “getNumStreamlines”: 找不到标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,227): error C3861: “getNumPoints”: 找不到标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,244): error C3861: “getNumStreamlines”: 找不到标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(167,3): error C2065: “mTimer”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,15): error C2065: “VisGraphCompTask”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,8): error C2923: “std::vector”: 对于参数“_Ty”，“VisGraphCompTask”不是有效的 模板 类型变量 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170): message : 参见“VisGraphCompTask”的声明 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,8): error C2976: “std::vector”: 模板 参数太少 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+F:\VisualStudio2019\VC\Tools\MSVC\14.29.30133\include\vector(430): message : 参见“std::vector”的声明 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,1): error C2133: “tasks”: 未知的大小 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,33): error C2512: “std::vector”: 没有合适的默认构造函数可用 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+F:\VisualStudio2019\VC\Tools\MSVC\14.29.30133\include\vector(430,14): message : 参见“std::vector”的声明 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(171,1): error C2662: “void std::vector<_Ty,_Alloc>::reserve(const allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type)”: 不能将“this”指针从“std::vector”转换为“std::vector<_Ty,_Alloc> &” (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(171,1): message : 原因如下: 无法从“std::vector”转换为“std::vector<_Ty,_Alloc>” (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(171,3): message : 转换要求第二个用户定义的转换运算符或构造函数 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+F:\VisualStudio2019\VC\Tools\MSVC\14.29.30133\include\vector(1356,33): message : 参见“std::vector<_Ty,_Alloc>::reserve”的声明 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(172,3): error C2065: “VisGraphCompTask”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(172,20): error C2146: 语法错误: 缺少“;”(在标识符“t”的前面) (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(172,20): error C2065: “t”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(179,18): error C3861: “getVisGraphOfStreamline”: 找不到标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(182,5): error C2065: “t”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(185,6): error C2065: “t”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(187,6): error C2065: “t”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(188,22): error C2065: “t”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,51): error C2663: “std::vector<_Ty,_Alloc>::data”: 2 个重载没有“this”指针的合法转换 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,60): error C2065: “mRenderer”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,1): error C2662: “allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const”: 不能将“this”指针从“std::vector”转换为“const std::vector<_Ty,_Alloc> &” (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,1): message : 原因如下: 无法从“std::vector”转换为“const std::vector<_Ty,_Alloc>” (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,108): message : 转换要求第二个用户定义的转换运算符或构造函数 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+F:\VisualStudio2019\VC\Tools\MSVC\14.29.30133\include\vector(1534,49): message : 参见“std::vector<_Ty,_Alloc>::size”的声明 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,3): error C3861: “computeVisibiltyGraphs_h”: 找不到标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(199,35): error C2039: "adj_mat": 不是 "VisGraph" 的成员 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(86): message : 参见“VisGraph”的声明 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(200,24): error C2039: "n": 不是 "VisGraph" 的成员 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(86): message : 参见“VisGraph”的声明 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(235,39): error C2065: “mTimer”: 未声明的标识符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\GraphDisplayWidget.h(5,10): fatal error C1083: 无法打开包括文件: “GplGraph.h”: No such file or directory (编译源文件 GraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(69,3): error C2061: 语法错误: 标识符“VisibilityGraphDataManager” (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(125,28): error C2143: 语法错误: 缺少“;”(在“*”的前面) (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(125,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(125,35): error C2238: 意外的标记位于“;”之前 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(149,2): error C2653: “VisibilityGraphDataManager”: 不是类或命名空间名称 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(149,44): error C3646: “mTsneColorMode”: 未知重写说明符 (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(149,58): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 VisibilityGraphDisplayWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(90,3): error C2614: “VisGraph”: 非法的成员初始化:“n”不是基或成员 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(91,3): error C2614: “VisGraph”: 非法的成员初始化:“matrix_offset”不是基或成员 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(92,3): error C2614: “VisGraph”: 非法的成员初始化:“adj_mat”不是基或成员 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(93,3): error C2614: “VisGraph”: 非法的成员初始化:“degree_mat”不是基或成员 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(94,3): error C2614: “VisGraph”: 非法的成员初始化:“latent_mat”不是基或成员 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(241,19): error C3646: “meta”: 未知重写说明符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(241,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(106,3): error C3861: “readMetaInfo”: 找不到标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(110,29): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(110,54): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(110,64): error C2065: “Lavender_gray”: 未声明的标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(110,39): error C3861: “getColorByName”: 找不到标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(111,27): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(111,52): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(111,62): error C2065: “Brandeis_blue”: 未声明的标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(111,37): error C3861: “getColorByName”: 找不到标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(112,27): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(112,52): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(112,62): error C2065: “Harvard_crimson”: 未声明的标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(112,37): error C3861: “getColorByName”: 找不到标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(128,1): error C2660: “readStreamlinePool”: 函数不接受 3 个参数 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\typeOperation.h(1552,13): message : 参见“readStreamlinePool”的声明 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,169): error C2065: “meta”: 未声明的标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,190): error C3861: “getNumPoints”: 找不到标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,206): error C3861: “getNumStreamlines”: 找不到标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,227): error C3861: “getNumPoints”: 找不到标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,244): error C3861: “getNumStreamlines”: 找不到标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(167,3): error C2065: “mTimer”: 未声明的标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,15): error C2065: “VisGraphCompTask”: 未声明的标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,8): error C2923: “std::vector”: 对于参数“_Ty”，“VisGraphCompTask”不是有效的 模板 类型变量 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170): message : 参见“VisGraphCompTask”的声明 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,8): error C2976: “std::vector”: 模板 参数太少 (编译源文件 VisGraphRenderWidget.cpp)
+F:\VisualStudio2019\VC\Tools\MSVC\14.29.30133\include\vector(430): message : 参见“std::vector”的声明 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,1): error C2133: “tasks”: 未知的大小 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,33): error C2512: “std::vector”: 没有合适的默认构造函数可用 (编译源文件 VisGraphRenderWidget.cpp)
+F:\VisualStudio2019\VC\Tools\MSVC\14.29.30133\include\vector(430,14): message : 参见“std::vector”的声明 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(171,1): error C2662: “void std::vector<_Ty,_Alloc>::reserve(const allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type)”: 不能将“this”指针从“std::vector”转换为“std::vector<_Ty,_Alloc> &” (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(171,1): message : 原因如下: 无法从“std::vector”转换为“std::vector<_Ty,_Alloc>” (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(171,3): message : 转换要求第二个用户定义的转换运算符或构造函数 (编译源文件 VisGraphRenderWidget.cpp)
+F:\VisualStudio2019\VC\Tools\MSVC\14.29.30133\include\vector(1356,33): message : 参见“std::vector<_Ty,_Alloc>::reserve”的声明 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(172,3): error C2065: “VisGraphCompTask”: 未声明的标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(172,20): error C2146: 语法错误: 缺少“;”(在标识符“t”的前面) (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(172,20): error C2065: “t”: 未声明的标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(179,18): error C3861: “getVisGraphOfStreamline”: 找不到标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(182,5): error C2065: “t”: 未声明的标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(185,6): error C2065: “t”: 未声明的标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(187,6): error C2065: “t”: 未声明的标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(188,22): error C2065: “t”: 未声明的标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,51): error C2663: “std::vector<_Ty,_Alloc>::data”: 2 个重载没有“this”指针的合法转换 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,1): error C2027: 使用了未定义类型“cudaStreamlineRenderer” (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(12): message : 参见“cudaStreamlineRenderer”的声明 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,1): error C2662: “allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const”: 不能将“this”指针从“std::vector”转换为“const std::vector<_Ty,_Alloc> &” (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,1): message : 原因如下: 无法从“std::vector”转换为“const std::vector<_Ty,_Alloc>” (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,108): message : 转换要求第二个用户定义的转换运算符或构造函数 (编译源文件 VisGraphRenderWidget.cpp)
+F:\VisualStudio2019\VC\Tools\MSVC\14.29.30133\include\vector(1534,49): message : 参见“std::vector<_Ty,_Alloc>::size”的声明 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,3): error C3861: “computeVisibiltyGraphs_h”: 找不到标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(199,35): error C2039: "adj_mat": 不是 "VisGraph" 的成员 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(86): message : 参见“VisGraph”的声明 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(200,24): error C2039: "n": 不是 "VisGraph" 的成员 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(86): message : 参见“VisGraph”的声明 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(235,39): error C2065: “mTimer”: 未声明的标识符 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(22,27): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(33,7): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(35,54): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(36,6): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(38,8): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(49,8): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(54,8): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(55,8): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(57,8): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(108,28): error C2065: “ACSIZE”: 未声明的标识符
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(112,17): error C2065: “j8”: 未声明的标识符
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(112,31): error C2065: “j8”: 未声明的标识符
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(110,3): error C3861: “accPerspective”: 找不到标识符
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(114,27): error C2065: “ACSIZE”: 未声明的标识符
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(114,33): error C2660: “glAccum”: 函数不接受 1 个参数
+F:\glew-2.2.0\include\GL\glew.h(862,23): message : 参见“glAccum”的声明 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(127,34): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(140,8): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(151,7): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(169,8): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(178,7): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(182,29): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(184,18): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(192,7): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(199,7): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(220,7): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(231,7): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(238,49): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(238,71): error C3078: 必须在没有初始化表达式的新表达式中指定数组大小
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(239,51): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(239,72): error C2660: “memset”: 函数不接受 2 个参数
+F:\VisualStudio2019\VC\Tools\MSVC\14.29.30133\include\vcruntime_string.h(63,15): message : 参见“memset”的声明 (编译源文件 VisGraphRenderWidget.cpp)
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(242,9): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(242,35): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(242,66): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(242,89): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(241,30): error C3861: “cudaComputeClickStreamline”: 找不到标识符
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.cpp(246,45): error C2065: “SELECTED_LINE_ID_NAME”: 未声明的标识符
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.cpp(6,10): fatal error C1083: 无法打开包括文件: “definition.h”: No such file or directory
+E:\Vis_Graph\VisGraph\ViewportWidget.cpp(2,10): fatal error C1083: 无法打开包括文件: “cuda_gl_interop.h”: No such file or directory
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(90,3): error C2614: “VisGraph”: 非法的成员初始化:“n”不是基或成员 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(91,3): error C2614: “VisGraph”: 非法的成员初始化:“matrix_offset”不是基或成员 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(92,3): error C2614: “VisGraph”: 非法的成员初始化:“adj_mat”不是基或成员 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(93,3): error C2614: “VisGraph”: 非法的成员初始化:“degree_mat”不是基或成员 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(94,3): error C2614: “VisGraph”: 非法的成员初始化:“latent_mat”不是基或成员 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(241,19): error C3646: “meta”: 未知重写说明符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(241,23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(258,24): error C2143: 语法错误: 缺少“;”(在“*”的前面) (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(258,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(258,35): error C2238: 意外的标记位于“;”之前 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(106,3): error C3861: “readMetaInfo”: 找不到标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(110,29): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(110,54): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(110,64): error C2065: “Lavender_gray”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(110,39): error C3861: “getColorByName”: 找不到标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(111,27): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(111,52): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(111,62): error C2065: “Brandeis_blue”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(111,37): error C3861: “getColorByName”: 找不到标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(112,27): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(112,52): error C2653: “ColorMap”: 不是类或命名空间名称 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(112,62): error C2065: “Harvard_crimson”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(112,37): error C3861: “getColorByName”: 找不到标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(128,1): error C2660: “readStreamlinePool”: 函数不接受 3 个参数 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\typeOperation.h(1552,13): message : 参见“readStreamlinePool”的声明 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,169): error C2065: “meta”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,190): error C3861: “getNumPoints”: 找不到标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,206): error C3861: “getNumStreamlines”: 找不到标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,227): error C3861: “getNumPoints”: 找不到标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(147,244): error C3861: “getNumStreamlines”: 找不到标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(167,3): error C2065: “mTimer”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,15): error C2065: “VisGraphCompTask”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,8): error C2923: “std::vector”: 对于参数“_Ty”，“VisGraphCompTask”不是有效的 模板 类型变量 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170): message : 参见“VisGraphCompTask”的声明 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,8): error C2976: “std::vector”: 模板 参数太少 (编译源文件 VisibilityGraphMainWindow.cpp)
+F:\VisualStudio2019\VC\Tools\MSVC\14.29.30133\include\vector(430): message : 参见“std::vector”的声明 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,1): error C2133: “tasks”: 未知的大小 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(170,33): error C2512: “std::vector”: 没有合适的默认构造函数可用 (编译源文件 VisibilityGraphMainWindow.cpp)
+F:\VisualStudio2019\VC\Tools\MSVC\14.29.30133\include\vector(430,14): message : 参见“std::vector”的声明 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(171,1): error C2662: “void std::vector<_Ty,_Alloc>::reserve(const allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type)”: 不能将“this”指针从“std::vector”转换为“std::vector<_Ty,_Alloc> &” (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(171,1): message : 原因如下: 无法从“std::vector”转换为“std::vector<_Ty,_Alloc>” (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(171,3): message : 转换要求第二个用户定义的转换运算符或构造函数 (编译源文件 VisibilityGraphMainWindow.cpp)
+F:\VisualStudio2019\VC\Tools\MSVC\14.29.30133\include\vector(1356,33): message : 参见“std::vector<_Ty,_Alloc>::reserve”的声明 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(172,3): error C2065: “VisGraphCompTask”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(172,20): error C2146: 语法错误: 缺少“;”(在标识符“t”的前面) (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(172,20): error C2065: “t”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(179,18): error C3861: “getVisGraphOfStreamline”: 找不到标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(182,5): error C2065: “t”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(185,6): error C2065: “t”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(187,6): error C2065: “t”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(188,22): error C2065: “t”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,51): error C2663: “std::vector<_Ty,_Alloc>::data”: 2 个重载没有“this”指针的合法转换 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,60): error C2065: “mRenderer”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,1): error C2662: “allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const”: 不能将“this”指针从“std::vector”转换为“const std::vector<_Ty,_Alloc> &” (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,1): message : 原因如下: 无法从“std::vector”转换为“const std::vector<_Ty,_Alloc>” (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,108): message : 转换要求第二个用户定义的转换运算符或构造函数 (编译源文件 VisibilityGraphMainWindow.cpp)
+F:\VisualStudio2019\VC\Tools\MSVC\14.29.30133\include\vector(1534,49): message : 参见“std::vector<_Ty,_Alloc>::size”的声明 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(194,3): error C3861: “computeVisibiltyGraphs_h”: 找不到标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(199,35): error C2039: "adj_mat": 不是 "VisGraph" 的成员 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(86): message : 参见“VisGraph”的声明 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(200,24): error C2039: "n": 不是 "VisGraph" 的成员 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(86): message : 参见“VisGraph”的声明 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraph.h(235,39): error C2065: “mTimer”: 未声明的标识符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\GraphDisplayWidget.h(5,10): fatal error C1083: 无法打开包括文件: “GplGraph.h”: No such file or directory (编译源文件 MessageCenter.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(69,3): error C2061: 语法错误: 标识符“VisibilityGraphDataManager” (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(125,28): error C2143: 语法错误: 缺少“;”(在“*”的前面) (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(125,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(125,35): error C2238: 意外的标记位于“;”之前 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(149,2): error C2653: “VisibilityGraphDataManager”: 不是类或命名空间名称 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(149,44): error C3646: “mTsneColorMode”: 未知重写说明符 (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphDisplayWidget.h(149,58): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int (编译源文件 VisibilityGraphMainWindow.cpp)
+E:\Vis_Graph\VisGraph\VisibilityGraphMainWindow.cpp(21,2): error C2065: “ui”: 未声明的标识符
+E:\Vis_Graph\VisGraph\VisibilityGraphMainWindow.cpp(29,2): error C2065: “ui”: 未声明的标识符
+E:\Vis_Graph\VisGraph\VisibilityGraphMainWindow.cpp(40,86): error C2027: 使用了未定义类型“VisibilityGraphDataManager”
+E:\Vis_Graph\VisGraph\VisGraphRenderWidget.h(13): message : 参见“VisibilityGraphDataManager”的声明
+E:\Vis_Graph\VisGraph\VisibilityGraphMainWindow.cpp(44,119): error C2661: “VisibilityGraphDisplayWidget::VisibilityGraphDisplayWidget”: 没有重载函数接受 6 个参数
